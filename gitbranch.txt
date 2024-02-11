@@ -1,0 +1,58 @@
+hospital system
+
+
+feature:
+1] doctor attendance :
+   
+
+2] medical 
+
+3] hospital fecitity:
+user story harshad manager
+ 1} mri
+	task
+	1] total mri ssyetm laxamn tester _ total mri counnt getting proper
+	2]doctor  sarvesh
+	3 }price  rushikesh  
+bug:
+        1[total mri counnt getting proper  laxaman
+  2}x-ray
+3}
+Repository  all projeect   repos sarvesh   master
+
+
+ 				|
+                   b ranches  local
+
+           laxamn
+            rushikesh
+
+
+
+upgrade_java_17 master branch 19/12/2023    abcedfxyz    
+  |
+  |
+
+upgrade_java_17_rushikesh  local branch	abcedfxyz			upgrade_java_17_laxman  local branch abcedfxyz
+
+Rushikesh Khakale  to  Everyone 0:32
+clean project
+
+maven -> update project
+
+run as -> maven clean
+
+run as ->  maven build -> goals -> clean install -e  -> skip test 
+
+
+own branch
+after chnages
+commit locally 
+checkout dev branch
+$ git checkout polling-service/polling-dev
+ git pull
+git checkout polling-service/polling-dev_216250
+ git merge polling-service/polling-dev
+git push
+then raise pr for local to dev
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow

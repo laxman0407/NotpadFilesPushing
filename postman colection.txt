@@ -1,0 +1,36 @@
+Requestparam
+
+
+postyamn
+
+body -> from-data -> key _> value(filename -> originalfile)
+
+Reqestbody 
+ postam 
+body -> raw -> paste your json test  (@RequestBody String name )
+
+Request
+
+
+pathvariable
+
+postman 
+params ( key -> value)  (@Requestparam("username") String usrname)
+
+
+authorization (auth2.0)
+
+
+clinet id
+client secret
+username 
+password
+
+based on above  information generate a bearer token that token provieds a roles that role based 
+user can login and can view only access screen or role based screens
+
+
+
+authentication
+
+validation corect username and password

@@ -1,0 +1,28 @@
+
+
+String s="Hello java";
+
+int l=s.length();
+
+for(int i=l-1;i>=0;i--){
+
+s.charAt(i);
+
+}
+
+
+List<Integer> list
+
+list.stream.sorted((i1,i2)->i1-i2).filter(i->i%2==0).forEach(System.out::println);
+
+for(Integer list1:list){
+
+System.out.println(list1);
+}
+
+//Sort map using java 8
+
+map.entrySet().stream.forEach(i->System.out.println(i.getKey()+""+i.getValue());
+
+delete distinct(salary) from emp;
+
